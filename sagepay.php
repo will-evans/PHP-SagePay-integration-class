@@ -15,8 +15,8 @@ class Sagepay {
     private $liveUrl = 'https://live.sagepay.com/gateway/service/vspform-register.vsp';
     private $simUrl = 'https://test.sagepay.com/simulator/vspformgateway.asp';
     private $FQDN = 'http://wigs.fractalwebdesign.co.uk';
-    public $vendor = 'etaga';
-    private $encryptionPassword = 'dYgdn1Df8K05PC1V';
+    public $vendor = 'e';
+    private $encryptionPassword = '';
     private $currency = 'GBP';
     private $transactionType = 'PAYMENT';
     
